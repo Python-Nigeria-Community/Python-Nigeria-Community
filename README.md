@@ -1,8 +1,8 @@
 <h1 align="center">Python-Nigeria-Community</h1>
 <div align="center">
     
-<a href="https://chat.whatsapp.com/FdMQXagIUxKDni8fKU1cbs" ><img src="https://img.shields.io/badge/Python-Nigeria-Community?style=plastic&logo=whatsapp&logoColor=%2325D366&color=brightgreen
-" /> </a>
+<a href="https://chat.whatsapp.com/FdMQXagIUxKDni8fKU1cbs" >
+    <img src="https://img.shields.io/badge/Python-Nigeria-Community?style=plastic&logo=whatsapp&logoColor=%2325D366&color=brightgreen" alt="Python Nigeria Logo"/> </a>
 <br>
 
 <i>Python Nigeria is a community where techies who use Python Programming Language and its related Frameworks and Libraries can interact and network amongst themselves.</i>

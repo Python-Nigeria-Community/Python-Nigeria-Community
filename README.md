@@ -33,6 +33,9 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ## Special Thanks 🙇
 - [Abhishek Naidu](https://abhisheknaidu.tech/)  for making the amazing site for this repo!
+- [OMA-B](https://github.com/OMA-B)  for supporting the Python Nigeria Community.
+- [Lou-Lou](https://github.com/Aourl24)  for supporting the Python Nigeria Community.
+- [GentleMan](https://github.com/Dgentle01)  for supporting the Python Nigeria Community.
 
 ## License
 
